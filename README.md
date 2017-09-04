@@ -1,3 +1,4 @@
+原作者及地址：https://github.com/zhangxw425/skuTableCreateDemo
 # skuTableCreateDemo
 淘宝发布商品时的sku价格表格生成实例代码
 sku属性分为必选sku和非必填sku.
